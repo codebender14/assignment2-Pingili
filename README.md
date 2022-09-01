@@ -1,7 +1,6 @@
 # assignment2-Pingili
 
-<h1>Sai Maneendra Pingili</h1>
+# Sai Maneendra Pingili
 
-<h3><b>National History Museum</b></h3> <br>
-
-The Museum has very valuable exhibits on the display such as rare <b>Meteorites</b> from the farthest cosmos of the universe and also has exhibits of precious <b>Fossils</b> which date back to million years. The museum has exhibits of <b>rare diamonds</b> which are priceless.
+#### __National History Museum__
+ The Museum has very valuable exhibits on the display such as rare **Meteorites** from the farthest cosmos of the universe and also has exhibits of precious **Fossils** which date back to million years. The museum has exhibits of **rare diamonds** which are priceless.
