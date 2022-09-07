@@ -19,3 +19,13 @@
 * The Capitol
 
 [AboutMe](AboutMe.md)
+
+----
+#### __Best Cities to visit in India__
+India is ranked as one of the beautiful countries in the world where we can find the unlimited fusion of people with many cultures. Life in India can be joyful, colorful. India has 29 states, each state has its own significant importance. These are the 12 of the best cities to visit in India. These mega-cities perform exclusively exciting experience.
+
+| City | Important Location | Time spent at location (Days) |
+| --- | --- | ---: |
+| Hyderabad | Charminar |2 |
+| Mysore | Chamundi Hills |1 |
+| Delhi | Taj Mahal |7 |
