@@ -29,3 +29,12 @@ India is ranked as one of the beautiful countries in the world where we can find
 | Hyderabad | Charminar |2 |
 | Mysore | Chamundi Hills |1 |
 | Delhi | Taj Mahal |7 |
+
+----
+
+#### __Quotes I Admire__
+> Stay Hungry. Stay Foolish
+>> ***Steve Jobs***
+
+> Empty your mind, be formless. Shapeless, like water
+>> ***Bruce Lee***
