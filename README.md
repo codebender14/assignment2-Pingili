@@ -29,6 +29,7 @@ India is ranked as one of the beautiful countries in the world where we can find
 | Hyderabad | Charminar |2 |
 | Mysore | Chamundi Hills |1 |
 | Delhi | Taj Mahal |7 |
+| Wayanad | Bramhagiri Betta |2 |
 
 ----
 
