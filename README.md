@@ -38,3 +38,21 @@ India is ranked as one of the beautiful countries in the world where we can find
 
 > Empty your mind, be formless. Shapeless, like water
 >> ***Bruce Lee***
+
+#### __Code Fencing__
+> [Relevant Question from StackOverflow with Link to the Article](https://stackoverflow.com/questions/21222360/how-to-make-a-simple-auto-playing-slide-show-with-javascript)
+#### Code Snippet from CSS-Tricks
+```css
+$("#slideshow > div:gt(0)").hide();
+
+setInterval(function() { 
+  $('#slideshow > div:first')
+  .fadeOut(1000)
+  .next()
+  .fadeIn(1000)
+  .end()
+  .appendTo('#slideshow');
+}, 3000);
+
+```
+[Link to the Snippet Source Code](https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/)
